@@ -4,11 +4,11 @@ import java.util.Scanner;
 
 public class Grading {
     public static void main(String args[]){
-        Scanner input = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter your grade: ");
 
-        double grade = input.nextDouble();
+        double grade = scanner.nextDouble();
 
         System.out.print("\n");
 
