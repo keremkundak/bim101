@@ -20,7 +20,6 @@ public class FirstPresident {
     }
     public static void main(String[] args) {
         int year = getRandomYear();
-        // Write your code here below
 
         String[] EVENTS = new String[]{
                 "Mustafa was born in Salonika",
