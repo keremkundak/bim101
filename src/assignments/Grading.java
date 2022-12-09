@@ -9,6 +9,8 @@ public class Grading {
         System.out.print("Enter your grade: ");
 
         double grade = scanner.nextDouble();
+        
+        scanner.close();
 
         System.out.print("\n");
 
